@@ -71,7 +71,7 @@ int main() {
     insert(&myList, 5, 0);    // Insert 5 at position 0
     insert(&myList, 10, 1);   // Insert 10 at position 1
     insert(&myList, 15, 1);   // Insert 15 at position 1
-    insert(&myList, 55, 1);   // Insert 15 at position 1
+    insert(&myList, 55, 1);   // Insert 55 at position 1
 
     display(&myList);         // Output: List: 5 15 10
 
